@@ -1,94 +1,94 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
+  - value: 🎓 known
+  - identifier: 🎓 known
+  - variable: 🎓 known
+  - constant: 🎓 known
   - scalar
-  - literal
+  - literal: 👂 heard
   - expression
   - heap
-  - function
-  - procedure
-  - method
-  - class
+  - function: 🎓 known
+  - procedure: 🎓 known
+  - method: 👂 heard
+  - class: 👂 heard
   - prototype
-  - event
-  - type
+  - event: 👂 heard
+  - type: 👂 heard
   - primitive types
   - reference types
-  - flag
+  - flag: 👂 heard
   - lexical scope
   - code block
   - conditions
   - loops
   - assignment
   - regular expression
-  - interface
+  - interface: 👂 heard
   - contract
-  - module
-  - call stack
+  - module: 👂 heard
+  - call stack 
 - Functions
   - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
-  - side effects
+  - argument: 🎓 known
+  - parameter: 🎓 known
+  - pure function: 🎓 known
+  - lambda expression: 👂 heard
+  - side effects: 👂 heard
   - closure
   - partial application
   - curry
   - higher order
   - recursion
   - callback
-  - listener
-  - compose
-  - pipe
-  - memoize
+  - listener: 🖐️ used
+  - compose: 🖐️ used
+  - pipe: 🎓 known 
+  - memoize: 🎓 known 
   - wrapper
   - functor
-  - monad
-  - monoid
-  - generator
+  - monad 
+  - monoid 
+  - generator 
   - coroutine
 - Data structures
-  - array
-  - structure
+  - array: 🖐️ used
+  - structure: 🖐️ used
   - record
   - enum
-  - instance
-  - object
-  - class
+  - instance: 🖐️ used
+  - object: 🖐️ used
+  - class: 🖐️ used
   - collection
-  - set
-  - hash table
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
-  - queue
-  - stack
+  - set: 🖐️ used
+  - hash table: 👂 heard
+  - linked list: 👂 heard
+  - doubly list: 👂 heard
+  - unrolled list: 👂 heard
+  - circular list: 👂 heard
+  - queue: 🖐️ used
+  - stack: 🖐️ used
   - deque
-  - tree
-  - graph
+  - tree: 🖐️ used
+  - graph: 🖐️ used
   - iterator
-  - mutable state
-  - immutable state
-  - serialization
-  - string parsing
+  - mutable state 
+  - immutable state 
+  - serialization 
+  - string parsing 
 - Process & style
-  - compiler
+  - compiler: 🖐️ used
   - transpiler
   - linter
   - polyfill
-  - debugger
+  - debugger: 🖐️ used
   - garbage collection
-  - refactoring
-  - code review
+  - refactoring: 🖐️ used
+  - code review: 🖐️ used
   - antipatterns
-  - paradigm
-  - algorithm
+  - paradigm: 🖐️ used
+  - algorithm: 🖐️ used
   - magic numbers
   - hardcode
   - complexity
@@ -102,5 +102,5 @@
   - exception
   - return early
   - unittest
-  - git
-  - github
+  - git: 🖐️ used
+  - github: 🖐️ used

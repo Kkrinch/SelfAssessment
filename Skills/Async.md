@@ -1,8 +1,8 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
+  - Event loop: 👂 heard
+  - try..catch: 👂 heard
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -19,10 +19,10 @@
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread
-  - Process
+  - Thread: 👂 heard
+  - Process: 👂 heard
 - Async contracts
-  - Callbacks
+  - Callbacks: 👂 heard 
   - Callback-last-error-first
   - Thenable
   - Promise
@@ -32,7 +32,7 @@
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event: 👂 heard
   - Coroutine
   - Goroutine
   - Signal
@@ -47,7 +47,7 @@
   - callbacks compose
   - async compose
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter: 👂 heard
   - Observable/Observer
   - Readable
   - Writable
@@ -59,7 +59,7 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
+  - Timers: 👂 heard
   - setImmediate
   - nextTick
   - AbortController
@@ -84,10 +84,10 @@
   - async.js library
   - RxJS library
   - Async composition
-  - Promise.all
+  - Promise.all: 🎓 known
   - Promise.allSettled
-  - Promise.race
-  - Promise.any
+  - Promise.race 
+  - Promise.any: 🎓 known
   - Web Locks API
   - IPC
   - Channel API

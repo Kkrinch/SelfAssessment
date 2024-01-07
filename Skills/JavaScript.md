@@ -1,17 +1,17 @@
 ## JavaScript
 
 - Language
-  - Object
-  - this
-  - arrow function
+  - Object: 🖐️ used
+  - this: 🖐️ used
+  - arrow function: 🖐️ used
   - async function
-  - call
+  - call 
   - bind
   - apply
   - instanceof
   - ...spread
   - ...rest
-  - typeof
+  - typeof: 🖐️ used
   - destructuring
   - generator
   - iterator
@@ -22,56 +22,56 @@
   - IIFE
   - global
   - globalThis
-  - window
+  - window: 👂 heard
   - getters and setters
   - __proto__
-  - prototype
+  - prototype: 👂 heard
   - equality operators
-  - logical operators
+  - logical operators: 🖐️ used
   - bitwise operators
   - ternary operator
-  - void
+  - void: 👂 heard
   - yield
   - await
   - template literal
-  - strict mode
+  - strict mode: 🖐️ used
   - delete
   - in
   - super
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - do..while: 🖐️ used
+  - for: 🖐️ used
   - for..in
   - for..of
   - for await
   - throw
-  - break
+  - break: 🖐️ used
   - continue
-  - import
-  - export
+  - import: 👂 heard
+  - export: 👂 heard
   - label
   - try..catch
-  - switch
-  - class
+  - switch: 👂 heard
+  - class: 👂 heard
   - new Error
   - with
 - Functions
   - function declaration
   - function expression
-  - return
+  - return: 🖐️ used
   - default parameters
   - functional object
 - Data structures
-  - Array
+  - Array: 🖐️ used
   - mixin
   - extend
-  - typed arrays
-  - Map
-  - Set
+  - typed arrays: 🖐️ used
+  - Map: 🖐️ used
+  - Set: 🖐️ used
   - undefined
   - null
   - Proxy
@@ -83,7 +83,7 @@
   - BigInt
 - Infrastructure
   - V8
-  - Node.js
-  - npm
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
   - prettier
   - MDN

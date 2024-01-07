@@ -17,16 +17,16 @@
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules: 👂 heard
+  - Dependencies: package.json and package lock: 👂 heard
   - Module-based permissions model
-  - Isolation with modularity
+  - Isolation with modularity: 👂 heard
   - Dependency injection
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
+  - Command line arguments: 👂 heard
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
@@ -84,9 +84,9 @@
   - GoF for Node.js
   - Leaking abstractions
 - Network
-  - IP sticky sessions
+  - IP sticky sessions: 👂 heard
   - Endpoint throttling
-  - HTTP(S)
+  - HTTP(S) : 👂 heard
   - TCP/SSL
   - UDP
   - TLS
@@ -96,13 +96,13 @@
   - Long polling
   - REST
   - RPC
-  - Routing
-  - DoS
-  - DDoS
+  - Routing:
+  - DoS 
+  - DDoS: 👂 heard
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS 
   - Fetch API
   - IncomingMessage
   - SQL injection
@@ -110,11 +110,11 @@
   - keep-alive
   - ALPN
   - SNI callback
-  - SSL certificates
-  - Protocol agnostic approach
+  - SSL certificates 
+  - Protocol agnostic approach:
 - Technique and tools
   - Native test runner
-  - Logging
+  - Logging:
   - Application configuring
   - Testing
   - CI/CD
@@ -123,7 +123,7 @@
   - Transform
   - back pressure
   - Buffer
-  - Console
+  - Console: 👂 heard
   - Inspector
   - Reliability
   - Quality
@@ -131,7 +131,7 @@
   - Flexibility
 - Data access
   - Data access layer
-  - Repository
+  - Repository: 👂 heard
   - Active record
   - Query builder
   - Object-Relational Mapping
@@ -152,8 +152,8 @@
   - Data race
 - Integrations and bindings
   - Native addons
-  - C and C++ addons
-  - Rust addons
+  - C and C++ addons: 👂 heard
+  - Rust addons: 👂 heard
   - Zig addons
   - NAN (Native Abstractions for Node.js)
   - Node-API (formerly N-API)
