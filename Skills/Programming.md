@@ -1,56 +1,56 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value: 🎓 known
-  - identifier: 🎓 known
-  - variable: 🎓 known
-  - constant: 🎓 known
+  - value: 🙋 explained
+  - identifier: 🙋 explained
+  - variable: 🙋 explained
+  - constant: 🙋 explained
   - scalar
-  - literal: 👂 heard
-  - expression
-  - heap
-  - function: 🎓 known
-  - procedure: 🎓 known
-  - method: 👂 heard
-  - class: 👂 heard
+  - literal: 🖐️ used
+  - expression: 🖐️ used
+  - heap: 🖐️ used
+  - function: 🖐️ used
+  - procedure: 🖐️ used
+  - method: 🖐️ used
+  - class: 🙋 explained
   - prototype
-  - event: 👂 heard
-  - type: 👂 heard
-  - primitive types
-  - reference types
-  - flag: 👂 heard
+  - event: 🖐️ used
+  - type: 🖐️ used
+  - primitive types: 🖐️ used
+  - reference types: 🖐️ used
+  - flag: 🖐️ used
   - lexical scope
   - code block
   - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface: 👂 heard
-  - contract
-  - module: 👂 heard
-  - call stack 
+  - loops: 🖐️ used
+  - assignment: 🖐️ used
+  - regular expression: 🖐️ used
+  - interface: 🖐️ used
+  - contract: 🖐️ used
+  - module: 🖐️ used
+  - call stack: 🎓 known 
 - Functions
-  - signature
-  - argument: 🎓 known
-  - parameter: 🎓 known
-  - pure function: 🎓 known
-  - lambda expression: 👂 heard
-  - side effects: 👂 heard
-  - closure
-  - partial application
-  - curry
-  - higher order
-  - recursion
-  - callback
+  - signature: 🖐️ used
+  - argument: 🖐️ used
+  - parameter: 🖐️ used
+  - pure function
+  - lambda expression: 🖐️ used
+  - side effects: 🖐️ used
+  - closure: 🖐️ used
+  - partial application: 🖐️ used
+  - curry: 🖐️ used
+  - higher order: 🖐️ used
+  - recursion: 🖐️ used
+  - callback: 🖐️ used
   - listener: 🖐️ used
   - compose: 🖐️ used
   - pipe: 🎓 known 
   - memoize: 🎓 known 
   - wrapper
-  - functor
-  - monad 
-  - monoid 
-  - generator 
+  - functor: 🖐️ used
+  - monad: 🎓 known 
+  - monoid: 🎓 known 
+  - generator: 🎓 known 
   - coroutine
 - Data structures
   - array: 🖐️ used
@@ -67,29 +67,29 @@
   - doubly list: 👂 heard
   - unrolled list: 👂 heard
   - circular list: 👂 heard
-  - queue: 🖐️ used
-  - stack: 🖐️ used
+  - queue: 🎓 known 
+  - stack: 🎓 known 
   - deque
-  - tree: 🖐️ used
-  - graph: 🖐️ used
+  - tree: 🎓 known 
+  - graph: 🎓 known 
   - iterator
-  - mutable state 
-  - immutable state 
-  - serialization 
-  - string parsing 
+  - mutable state: 🎓 known 
+  - immutable state: 🎓 known 
+  - serialization: 🎓 known 
+  - string parsing: 🎓 known 
 - Process & style
   - compiler: 🖐️ used
   - transpiler
-  - linter
+  - linter: 🖐️ used
   - polyfill
   - debugger: 🖐️ used
   - garbage collection
   - refactoring: 🖐️ used
   - code review: 🖐️ used
   - antipatterns
-  - paradigm: 🖐️ used
-  - algorithm: 🖐️ used
-  - magic numbers
+  - paradigm: 👂 heard
+  - algorithm: 👂 heard
+  - magic numbers: 👂 heard
   - hardcode
   - complexity
   - decomposition

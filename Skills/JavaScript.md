@@ -5,7 +5,7 @@
   - this: 🖐️ used
   - arrow function: 🖐️ used
   - async function
-  - call 
+  - call
   - bind
   - apply
   - instanceof
@@ -22,40 +22,40 @@
   - IIFE
   - global
   - globalThis
-  - window: 👂 heard
+  - window: 🖐️ used
   - getters and setters
   - __proto__
   - prototype: 👂 heard
   - equality operators
-  - logical operators: 🖐️ used
+  - logical operators
   - bitwise operators
   - ternary operator
-  - void: 👂 heard
+  - void: 🖐️ used
   - yield
   - await
   - template literal
   - strict mode: 🖐️ used
   - delete
   - in
-  - super
-  - Symbol
+  - super: 🖐️ used
+  - Symbol: 🖐️ used
   - Reflect
 - Statements
   - if: 🖐️ used
   - while: 🖐️ used
   - do..while: 🖐️ used
   - for: 🖐️ used
-  - for..in
+  - for..in: 🖐️ used
   - for..of
   - for await
   - throw
   - break: 🖐️ used
   - continue
-  - import: 👂 heard
-  - export: 👂 heard
+  - import: 🖐️ used
+  - export: 🖐️ used
   - label
   - try..catch
-  - switch: 👂 heard
+  - switch: 🖐️ used
   - class: 👂 heard
   - new Error
   - with
@@ -83,7 +83,7 @@
   - BigInt
 - Infrastructure
   - V8
-  - Node.js: 🖐️ used
-  - npm: 🖐️ used
+  - Node.js
+  - npm
   - prettier
   - MDN

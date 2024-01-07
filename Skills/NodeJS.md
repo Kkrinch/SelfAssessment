@@ -1,7 +1,7 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js: 👂 heard
   - Stateful and stateless servers
   - Nonblocking I/O and slocking code
   - Event loop: phases
@@ -9,13 +9,13 @@
   - Garbage collection
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)
+  - Interactive applications (close to real-time):
 - Modularity, layers and dependencies
   - CommonJS modules
   - ECMAScript modules
   - node:module
   - Caching in CJS and ESM
-  - Modules as singletons
+  - Modules as singletons:
   - Contexts and scripts node:vm
   - Dependencies: npm, node_modules: 👂 heard
   - Dependencies: package.json and package lock: 👂 heard
@@ -34,7 +34,7 @@
   - Watch filesystem changes with --watch
 - Internal API
   - Streams API
-  - Web Streams API
+  - Web Streams API: 👂 heard
   - Crypto API
   - Password hashing with node:crypto.scrypt
   - Web Crypto API
@@ -62,7 +62,7 @@
   - Module node:zlib
 - Application structure and architecture
   - Isolation between layer
-  - Multilayer approach
+  - Multilayer approach: 👂 heard
   - Separation of concerns
   - Inversion of control
   - Dependency injection
@@ -73,36 +73,36 @@
   - Highload applications
   - Clean architecture
   - DDD
-  - Message Queue
+  - Message Queue: 👂 heard
   - CQS
   - CQRS
   - Event sourcing
   - Load balancing
-  - Serverless clouds
+  - Serverless clouds: 👂 heard
   - FaaS clouds
   - Fat controller
   - GoF for Node.js
   - Leaking abstractions
 - Network
-  - IP sticky sessions: 👂 heard
+  - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S) : 👂 heard
-  - TCP/SSL
+  - HTTP(S):  👂 heard
+  - TCP/SSL: 👂 heard
   - UDP
   - TLS
-  - Websocket
+  - Websocket: 👂 heard
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
   - REST
   - RPC
-  - Routing:
-  - DoS 
+  - Routing
+  - DoS
   - DDoS: 👂 heard
   - XSS
   - Path traversal
   - CSRF
-  - DNS 
+  - DNS
   - Fetch API
   - IncomingMessage
   - SQL injection
@@ -110,13 +110,13 @@
   - keep-alive
   - ALPN
   - SNI callback
-  - SSL certificates 
-  - Protocol agnostic approach:
+  - SSL certificates
+  - Protocol agnostic approach
 - Technique and tools
   - Native test runner
-  - Logging:
-  - Application configuring
-  - Testing
+  - Logging: 👂 heard
+  - Application configuring: 👂 heard
+  - Testing: 👂 heard
   - CI/CD
   - Readable
   - Writable
@@ -130,13 +130,13 @@
   - Availability
   - Flexibility
 - Data access
-  - Data access layer
-  - Repository: 👂 heard
+  - Data access layer: 👂 heard
+  - Repository: 🖐️ used
   - Active record
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
+  - Error: 👂 heard
   - error.cause
   - error.code
   - error.message
@@ -145,9 +145,9 @@
   - Error.captureStackTrace
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools
+  - Debugging tools: 👂 heard
   - Flame graph
-  - Memory leaks
+  - Memory leaks: 👂 heard
   - Resource leaks
   - Data race
 - Integrations and bindings
