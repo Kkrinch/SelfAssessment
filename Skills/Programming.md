@@ -67,11 +67,11 @@
   - doubly list: 👂 heard
   - unrolled list: 👂 heard
   - circular list: 👂 heard
-  - queue: 🎓 known 
-  - stack: 🎓 known 
+  - queue: 🖐️ used
+  - stack: 🖐️ used
   - deque
-  - tree: 🎓 known 
-  - graph: 🎓 known 
+  - tree: 🖐️ used
+  - graph: 🖐️ used
   - iterator
   - mutable state: 🎓 known 
   - immutable state: 🎓 known 
@@ -87,8 +87,8 @@
   - refactoring: 🖐️ used
   - code review: 🖐️ used
   - antipatterns
-  - paradigm: 👂 heard
-  - algorithm: 👂 heard
+  - paradigm: 🖐️ used
+  - algorithm: 🖐️ used
   - magic numbers: 👂 heard
   - hardcode
   - complexity

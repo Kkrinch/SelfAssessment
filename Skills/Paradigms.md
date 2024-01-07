@@ -45,7 +45,7 @@
   - Singleton: 🖐️ used
   - Factory Method
   - Abstract Factory
-  - Adapter
+  - Adapter: 👂 heard
   - Observer
   - Strategy
   - Facade

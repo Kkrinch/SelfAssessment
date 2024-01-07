@@ -9,13 +9,13 @@
   - Garbage collection
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time):
+  - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
   - CommonJS modules
   - ECMAScript modules
   - node:module
   - Caching in CJS and ESM
-  - Modules as singletons:
+  - Modules as singletons
   - Contexts and scripts node:vm
   - Dependencies: npm, node_modules: 👂 heard
   - Dependencies: package.json and package lock: 👂 heard
@@ -84,7 +84,7 @@
   - GoF for Node.js
   - Leaking abstractions
 - Network
-  - IP sticky sessions
+  - IP sticky sessions: 👂 heard
   - Endpoint throttling
   - HTTP(S):  👂 heard
   - TCP/SSL: 👂 heard

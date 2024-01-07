@@ -27,7 +27,7 @@
   - __proto__
   - prototype: 👂 heard
   - equality operators
-  - logical operators
+  - logical operators: 🖐️ used
   - bitwise operators
   - ternary operator
   - void: 🖐️ used
@@ -83,7 +83,7 @@
   - BigInt
 - Infrastructure
   - V8
-  - Node.js
-  - npm
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
   - prettier
   - MDN

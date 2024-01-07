@@ -84,10 +84,10 @@
   - async.js library
   - RxJS library
   - Async composition
-  - Promise.all
+  - Promise.all: 🎓 known 
   - Promise.allSettled
   - Promise.race
-  - Promise.any
+  - Promise.any: 🎓 known
   - Web Locks API
   - IPC
   - Channel API
